@@ -36,7 +36,7 @@ Edit
 ## 🚀 How to Run
 
 1. Clone the repository:
-git clone https://github.com/yourusername/phishing-detection.git
+git clone https://github.com/PranayGaddam0906/phishing-detection.git
 cd phishing-detection
 
 markdown
